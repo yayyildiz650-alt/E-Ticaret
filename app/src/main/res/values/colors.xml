@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kırmızı Tonları -->
+    <color name="red_100">#FFFFCDD2</color>
+    <color name="red_300">#FFE57373</color>
+    <color name="red_500">#FFF44336</color>
+    <color name="red_700">#FFD32F2F</color>
+    <color name="red_900">#FFB71C1C</color>
+
+    <!-- Mavi Tonları -->
+    <color name="blue_100">#FFBBDEFB</color>
+    <color name="blue_300">#FF64B5F6</color>
+    <color name="blue_500">#FF2196F3</color>
+    <color name="blue_700">#FF1976D2</color>
+    <color name="blue_900">#FF0D47A1</color>
+
+    <!-- Sarı Tonları -->
+    <color name="yellow_100">#FFFFF9C4</color>
+    <color name="yellow_300">#FFFFF176</color>
+    <color name="yellow_500">#FFFFEB3B</color>
+    <color name="yellow_700">#FFFBC02D</color>
+    <color name="yellow_900">#FFF57F17</color>
+
+    <!-- Turuncu Tonları -->
+    <color name="orange_100">#FFFFE0B2</color>
+    <color name="orange_300">#FFFFB74D</color>
+    <color name="orange_500">#FFFF9800</color>
+    <color name="orange_700">#FFF57C00</color>
+    <color name="orange_900">#FFE65100</color>
+
+    <!-- Pembe Tonları -->
+    <color name="pink_100">#FFF8BBD0</color>
+    <color name="pink_300">#FFF06292</color>
+    <color name="pink_500">#FFE91E63</color>
+    <color name="pink_700">#FFC2185B</color>
+    <color name="pink_900">#FF880E4F</color>
+
+    <!-- Yeşil Tonları -->
+    <color name="green_100">#FFC8E6C9</color>
+    <color name="green_300">#FF81C784</color>
+    <color name="green_500">#FF4CAF50</color>
+    <color name="green_700">#FF388E3C</color>
+    <color name="green_900">#FF1B5E20</color>
+
+    <!-- Kahverengi Tonları -->
+    <color name="brown_100">#FFD7CCC8</color>
+    <color name="brown_300">#FFA1887F</color>
+    <color name="brown_500">#FF795548</color>
+    <color name="brown_700">#FF5D4037</color>
+    <color name="brown_900">#FF3E2723</color>
+
+    <!-- Gri Tonları -->
+    <color name="gray_100">#FFF5F5F5</color>
+    <color name="gray_300">#FFE0E0E0</color>
+    <color name="gray_500">#FF9E9E9E</color>
+    <color name="gray_700">#FF616161</color>
+    <color name="gray_900">#FF212121</color>
+
+    <!-- Cyan / Turkuaz Tonları -->
+    <color name="cyan_100">#FFB2EBF2</color>
+    <color name="cyan_300">#FF4DD0E1</color>
+    <color name="cyan_500">#FF00BCD4</color>
+    <color name="cyan_700">#FF0097A7</color>
+    <color name="cyan_900">#FF006064</color>
+
+    <!-- Indigo Tonları -->
+    <color name="indigo_100">#FFC5CAE9</color>
+    <color name="indigo_300">#FF7986CB</color>
+    <color name="indigo_500">#FF3F51B5</color>
+    <color name="indigo_700">#FF303F9F</color>
+    <color name="indigo_900">#FF1A237E</color>
+
+
+
+
+
+
+</resources>

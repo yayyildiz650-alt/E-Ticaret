@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060833907262",
+    "project_id": "engaged-reducer-503107-j5",
+    "storage_bucket": "engaged-reducer-503107-j5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060833907262:android:6d54d86acf94680a87f76f",
+        "android_client_info": {
+          "package_name": "com.example.e_ticaret"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc61GK7ehMlRKdRytLhUqILE2Q9qXxXXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

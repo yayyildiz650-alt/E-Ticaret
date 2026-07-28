@@ -1,0 +1,7 @@
+- [x] Fix Firebase App Check Initialization
+    - [x] Update `app/build.gradle.kts` with Play Integrity dependency
+    - [x] Clean up App Check logic in `MainActivity.kt`
+    - [x] Properly initialize App Check in `MainActivity.onCreate()`
+- [x] Verify build
+    - [x] Gradle Sync
+    - [x] Assemble Debug

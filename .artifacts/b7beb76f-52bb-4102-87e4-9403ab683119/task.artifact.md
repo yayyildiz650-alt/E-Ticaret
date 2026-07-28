@@ -1,0 +1,3 @@
+- [x] Fix imports in `AiViewModel.kt`
+- [x] Update Firebase BOM to a more recent version (33.10.0) to support Vertex AI
+- [x] Verify the fix with `analyze_file`

@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Alışveriş Çantası Gövdesi -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,35 L78,35 L82,85 C82,87.76 79.76,90 77,90 L31,90 C28.24,90 26,87.76 26,85 L30,35 Z" />
+
+    <!-- Çanta Sapı -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M44,35 C44,25 64,25 64,35" />
+
+    <!-- Stilize 'E' Harfi Çizgileri -->
+    <path
+        android:strokeColor="#D32F2F"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M45,50 L63,50 M45,60 L58,60 M45,70 L63,70 M45,50 L45,70" />
+</vector>
